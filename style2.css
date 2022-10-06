@@ -25,7 +25,7 @@
 }
 .nav_side{
     float:right;
-    width:85%;
+    width:100%;
     margin-top:30px;
 }
 .nav_side a{
@@ -35,7 +35,7 @@
     color:black;
     font-weight:bold;
     font-family: cosmic,sans-serif;
-    font-size: 20px;
+    font-size: 23px;
     justify-content: center;
     align-items: center;
     align-content: center;
