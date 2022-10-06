@@ -47,11 +47,10 @@
 }
 .main{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUhVjNKGvsdZ1-8W2efyl9GAviYRadgUSnJw&usqp=CAU);
-    background-position:center;
+    background-position:center center;
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 70vh;
 }
 .main .main_content{
     padding-top:10%;
